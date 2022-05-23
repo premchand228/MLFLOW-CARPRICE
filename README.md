@@ -28,4 +28,4 @@ mlflow ui
 
 ### Comparing diffrent experiments and identifying the accurate parameters and metrics.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/premchand228/MLFLOW-LASSO-experiment-tracking/blob/master/canvas.png)

@@ -1,4 +1,4 @@
-# MLFLOW-INSURANCE CLAIM FRAUD PREDICTION:
+# MLFLOW-LASSO and RIDGE regression  experiments tracking:
 
 * In this project you will understand how we can use MLFLOW and log various metrics.
 

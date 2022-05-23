@@ -1,11 +1,11 @@
-# AIOPS-MLFLOW sample demo
+# MLFLOW-INSURANCE CLAIM FRAUD PREDICTION:
 
-* This demo is to understand basic loggiging mechanism exist in MLFLOw
+* In this project you will understand how we can use MLFLOW and log various metrics.
 
-* We tried to see how mlflow logs various metrics such as parameters and metrics which we can use to compare multiple experiments.
+* We will conduct the data analysis and draw various infrenses that are needed. 
 
-* MLFLOW help us compare how changes in some parameters are impacting the outcome of experiements.
+* We will compare the performance of the model using MLFLOW  comparsion GUI.
 
-* MLFLOW has many advantages over dvc as it offers great UI for comparision.
+* This experimrnt is going to be a more advanced than the simple demo we saw earlier(AIOPS-MLFLOW)
 
-* I have done some basic artifact visualisation using MLFLOW UI.
+

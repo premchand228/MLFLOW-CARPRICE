@@ -8,12 +8,21 @@
 
 * This experimrnt is going to be a more advanced than the simple demo we saw earlier(AIOPS-MLFLOW)
 
+
 ## commands used -
 
 ### for getting user interface
 
 ```bash
 mlflow ui
+```
+
+### This code can be easily run from anywhere with simple command as below 
+* The advantage is that you dont need to download the code into local machine or no need to change any code snippets.
+* Experiments can be run easily without any need.
+
+```bash
+ mlflow run https://github.com/premchand228/MLFLOW-LASSO-experiment-tracking.git
 ```
 
 

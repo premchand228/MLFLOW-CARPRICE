@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataScience/AIMLOPS/MLflow/Mlflow-Basic-demo/AIOPS-MLFLOW/mlruns/0/ca32802447414a91893c02be361b241f/artifacts
+end_time: 1652272952962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ca32802447414a91893c02be361b241f
+run_uuid: ca32802447414a91893c02be361b241f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652272952921
+status: 3
+tags: []
+user_id: prema

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataScience/AIMLOPS/MLflow/Mlflow-Basic-demo/AIOPS-MLFLOW/mlruns/0/a17087b196bb48f383518e3f7585e45d/artifacts
+end_time: 1652976115708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a17087b196bb48f383518e3f7585e45d
+run_uuid: a17087b196bb48f383518e3f7585e45d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652976114879
+status: 4
+tags: []
+user_id: premchand228

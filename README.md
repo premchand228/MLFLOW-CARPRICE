@@ -48,6 +48,11 @@ mlflow run https://github.com/<USERNAME>/<REPO_NAME.git -P param=5.0
 ```bash
 conda env export > conda.yaml
 ```
+### To serve a model we need to run following command which will act as API.
+```bash 
+mlflow models serve -m /home/premchand228/Datascience/mlflow/MLFLOW-Lasso_exp/MLFLOW-LASSO-experiment-tracking/mlruns/0/00271c67ea9c4dfdb5fec5bcc98f1930/artifacts/model -p 1234
+```
+
 ### command for prediction on serving model 
 #### for windows -
 ```bash

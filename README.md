@@ -7,6 +7,9 @@
 * We will compare the performance of the model using MLFLOW  comparsion GUI.
 
 * This experimrnt is going to be a more advanced than the simple demo we saw earlier(AIOPS-MLFLOW)
+*
+* This experimrnt will also show us a way how to serve a model using MLFLOW capabilities.
+* 
 
 
 ## commands used -

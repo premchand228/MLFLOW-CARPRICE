@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/2885a0ff83584ad99c3daa319fc1f0ae/artifacts
+end_time: 1653284217136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2885a0ff83584ad99c3daa319fc1f0ae
+run_uuid: 2885a0ff83584ad99c3daa319fc1f0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653284214900
+status: 3
+tags: []
+user_id: premchand228

@@ -8,4 +8,15 @@
 
 * This experimrnt is going to be a more advanced than the simple demo we saw earlier(AIOPS-MLFLOW)
 
+## commands used -
 
+### for getting user interface
+
+```bash
+mlflow ui
+```
+
+
+### Comparing diffrent experiments and identifying the accurate parameters and metrics.
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)

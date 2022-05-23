@@ -22,7 +22,7 @@ mlflow ui
 
 ### This code can be easily run from anywhere with simple command as below 
 * The advantage is that you dont need to download the code into local machine or no need to change any code snippets.
-* Experiments can be run easily without any need.
+* Experiments can be run easily without any code change.
 
 ```bash
  mlflow run https://github.com/premchand228/MLFLOW-LASSO-experiment-tracking.git
